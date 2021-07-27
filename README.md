@@ -34,7 +34,7 @@ Como mencioné anteriormente, aprenderemos Node de muchas formas y con muchos ej
 * Heroku
 * MySQL
 * ypeScript
-* * PostMan
+* PostMan
 * Express
 * YARGS
 * Aplicaciones de consola básicas e interactivas
